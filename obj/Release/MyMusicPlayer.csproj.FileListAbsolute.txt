@@ -1,0 +1,10 @@
+C:\Users\Andrei\source\repos\MyMusicPlayer\MyMusicPlayer\bin\Release\MyMusicPlayer.exe.config
+C:\Users\Andrei\source\repos\MyMusicPlayer\MyMusicPlayer\bin\Release\MyMusicPlayer.exe
+C:\Users\Andrei\source\repos\MyMusicPlayer\MyMusicPlayer\bin\Release\MyMusicPlayer.pdb
+C:\Users\Andrei\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Release\MyMusicPlayer.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Release\MyMusicPlayer.Form1.resources
+C:\Users\Andrei\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Release\MyMusicPlayer.Properties.Resources.resources
+C:\Users\Andrei\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Release\MyMusicPlayer.csproj.GenerateResource.cache
+C:\Users\Andrei\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Release\MyMusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Release\MyMusicPlayer.exe
+C:\Users\Andrei\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Release\MyMusicPlayer.pdb
